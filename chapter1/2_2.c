@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("wang lintao\n");
+	printf("Bruce Wang\n");
 	printf("Suzhou province, China\n");
 
 	return 0;
